@@ -1,4 +1,4 @@
 # Helm-citus
 Helm chart for scalable pgsql in k8s with citus.
 
-in progress
+Thhis projject still in progress
